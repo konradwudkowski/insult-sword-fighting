@@ -19,14 +19,69 @@
 		},
 		{
 			"id" : 4,
-			"insult": "You fight like a Dairy Farmer!",
-			"comeback": "How appropriate! You fight like a cow!"
+			"insult": "Soon you'll be wearing my sword like a shish kebab!",
+			"comeback": "First you better stop waving it about like a feather duster."
 		},
 		{
 			"id" : 5,
-			"insult": "You fight like a Dairy Farmer!",
-			"comeback": "How appropriate! You fight like a cow!"
-		}
+			"insult": "People fall at my feet when they see me coming!",
+			"comeback": "Even BEFORE they smell your breath?"
+		},
+		{
+			"id" : 6,
+			"insult": "I'm not going to take your insolence sitting down!",
+			"comeback": "Your hemorroids are flaring up again eh?"
+		},
+		{
+			"id" : 7,
+			"insult": "I once owned a dog that was smarter than you.",
+			"comeback": "He must have taught you everything you know."
+		},
+		{
+			"id" : 8,
+			"insult": "Nobody's ever drawn blood from me and nobody ever will.",
+			"comeback": "You run THAT fast?"
+		},
+		{
+			"id" : 9,
+			"insult": "Have you stopped wearing diapers yet?",
+			"comeback": "Why? Did you want to borrow one?"
+		},
+		{
+			"id" : 10,
+			"insult": "There are no words for how disgusting you are.",
+			"comeback": "Yes there are. You just never learned them."
+		},
+		{
+			"id" : 11,
+			"insult": "You make me want to puke.",
+			"comeback": "You make me think somebody already did."
+		},
+		{
+			"id" : 12,
+			"insult": "My handkerchief will wipe up your blood!",
+			"comeback": "So you got that job as janitor, after all."
+		},
+		{
+			"id" : 13,
+			"insult": "I got this scar on my face during a mighty struggle!",
+			"comeback": "I hope now you've learned to stop picking your nose."
+		},
+		{
+			"id" : 14,
+			"insult": "I've heard you are a contemptible sneak.",
+			"comeback": "Too bad no one's ever heard of YOU at all."
+		},
+		{
+			"id" : 15,
+			"insult": "You're no match for my brains, you poor fool.",
+			"comeback": "I'd be in real trouble if you ever used them."
+		},
+		{
+			"id" : 16,
+			"insult": "You have the manners of a beggar.",
+			"comeback": "I wanted to make sure you'd feel comfortable with me."
+		},
 	]
 	
 	
