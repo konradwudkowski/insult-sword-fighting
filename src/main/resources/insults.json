@@ -1,0 +1,98 @@
+[
+	{
+		"id" : 1,
+		"generalInsult": "You fight like a Dairy Farmer!",
+		"bossInsult": "I will milk every drop of blood from your body!",
+		"comeback": "How appropriate! You fight like a cow!"
+	},
+	{
+		"id" : 2,
+		"generalInsult": "This is the END for you, you gutter crawling cur!",
+		"bossInsult": "I've got a long, sharp lesson for you to learn today.",
+		"comeback": "And I've got a little TIP for you, get the POINT?"
+	},
+	{
+		"id" : 3,
+		"generalInsult": "I've spoken with apes more polite than you!",
+		"bossInsult": "Now I know what filth and stupidity really are.",
+		"comeback": "I'm glad to hear you attended your family reunion!"
+	},
+	{
+		"id" : 4,
+		"generalInsult": "Soon you'll be wearing my sword like a shish kebab!",
+		"bossInsult": "My tongue is sharper than any sword",
+		"comeback": "First you better stop waving it about like a feather duster."
+	},
+	{
+		"id" : 5,
+		"generalInsult": "People fall at my feet when they see me coming!",
+		"bossInsult": "People fall at my feet when they see me coming!",
+		"comeback": "Even BEFORE they smell your breath?"
+	},
+	{
+		"id" : 6,
+		"generalInsult": "I'm not going to take your insolence sitting down!",
+		"bossInsult": "You are a pain in the backside, sir!",
+		"comeback": "Your hemorroids are flaring up again eh?"
+	},
+	{
+		"id" : 7,
+		"generalInsult": "I once owned a dog that was smarter than you.",
+		"bossInsult": "Only once have I met such a coward!",
+		"comeback": "He must have taught you everything you know."
+	},
+	{
+		"id" : 8,
+		"generalInsult": "Nobody's ever drawn blood from me and nobody ever will.",
+		"bossInsult": "No one will ever catch ME fighting as badly as you do.",
+		"comeback": "You run THAT fast?"
+	},
+	{
+		"id" : 9,
+		"generalInsult": "Have you stopped wearing diapers yet?",
+		"bossInsult": "I hope you have a boat ready for a quick escape.",
+		"comeback": "Why? Did you want to borrow one?"
+	},
+	{
+		"id" : 10,
+		"generalInsult": "There are no words for how disgusting you are.",
+		"bossInsult": "There are no clever moves that can help you now.",
+		"comeback": "Yes there are. You just never learned them."
+	},
+	{
+		"id" : 11,
+		"generalInsult": "You make me want to puke.",
+		"bossInsult": "If your brother's like you, better to marry a pig.",
+		"comeback": "You make me think somebody already did."
+	},
+	{
+		"id" : 12,
+		"generalInsult": "My handkerchief will wipe up your blood!",
+		"bossInsult": "My name is feared in every dirty corner of this island!",
+		"comeback": "So you got that job as janitor, after all."
+	},
+	{
+		"id" : 13,
+		"generalInsult": "I got this scar on my face during a mighty struggle!",
+		"bossInsult": "My last fight ended with my hands covered with blood.",
+		"comeback": "I hope now you've learned to stop picking your nose."
+	},
+	{
+		"id" : 14,
+		"generalInsult": "I've heard you are a contemptible sneak.",
+		"bossInsult": "My sword is famous all over the Caribbean!",
+		"comeback": "Too bad no one's ever heard of YOU at all."
+	},
+	{
+		"id" : 15,
+		"generalInsult": "You're no match for my brains, you poor fool.",
+		"bossInsult": "I've got the courage and skill of a master swordsman.",
+		"comeback": "I'd be in real trouble if you ever used them."
+	},
+	{
+		"id" : 16,
+		"generalInsult": "You have the manners of a beggar.",
+		"bossInsult": "Every word you say to me is stupid.",
+		"comeback": "I wanted to make sure you'd feel comfortable with me."
+	}
+]
