@@ -1,0 +1,33 @@
+{
+	"project": "Monkey Island Insult Sword Fighting",
+	"general-insults":
+	[
+		{
+			"id" : 1,
+			"insult": "You fight like a Dairy Farmer!",
+			"comeback": "How appropriate! You fight like a cow!"
+		},
+		{
+			"id" : 2,
+			"insult": "This is the END for you, you gutter crawling cur!",
+			"comeback": "And I've got a little TIP for you, get the POINT?"
+		},
+		{
+			"id" : 3,
+			"insult": "I've spoken with apes more polite than you!",
+			"comeback": "I'm glad to hear you attended your family reunion!"
+		},
+		{
+			"id" : 4,
+			"insult": "You fight like a Dairy Farmer!",
+			"comeback": "How appropriate! You fight like a cow!"
+		},
+		{
+			"id" : 5,
+			"insult": "You fight like a Dairy Farmer!",
+			"comeback": "How appropriate! You fight like a cow!"
+		}
+	]
+	
+	
+}
