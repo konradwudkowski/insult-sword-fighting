@@ -5,11 +5,10 @@ import model._
 class GameEngine {
   val repo = new Repo
 
-  def randomInt = scala.util.Random.nextInt(repo.entries.size)
+  def randomInsults(howMany: Int): List[Insult] = {
+    scala.util.Random.shuffle(repo.entries).map(entry => Insult(entry.id, entry.generalInsult)).take(howMany)
+  }
 
-  def randomInsults(howMany: Int) = repo.entries.map(entry => Insult(entry.id, entry.generalInsult)).take(howMany)
-
-  // make it actually random
   def getComebackForInsult(insult: Insult) = repo.entries.filter(_.id == insult.id).map(
     entry => Comeback(insult.id, entry.comeback)
   )
